@@ -1,0 +1,19 @@
+.background-img{
+    background-image: url("images/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.card-text{
+    height: 120px;
+}
+
+/* .btn-primary{
+    background-color: aqua;
+} */
+
+/* .btn-primary:hover{
+    background-color: black;
+} */
